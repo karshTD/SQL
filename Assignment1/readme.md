@@ -6,10 +6,6 @@ This repository contains solutions for DBMS Lab Assignment 3 focusing on:
 - Data Manipulation Language (DML) commands
 - Library Management System database implementation
 
-## 📁 Repository Structure
-- `SQL/` - All SQL scripts
-- `Documentation/` - Assignment details and diagrams
-- `Sample_Data/` - Sample data for testing
 
 ## 🛠️ Setup Instructions
 1. Use MySQL, PostgreSQL, or any SQL database
